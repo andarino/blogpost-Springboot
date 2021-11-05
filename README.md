@@ -1,7 +1,7 @@
 #CODEBLOG - Blogpost
 ## Um blogpost no estilo CRUD usando Spring Boot, Spring Security, Bootstrap, thymeleaf, JPA e integração com Postgres. Todo o projeto é feito na arquitetura MVC.
 
-![posts](https://your-copied-image-address)
+![posts](https://github.com/andarino/blogpost-Springboot/blob/main/img/home.jpeg)
 ## Dependências
 * Java:
 ```

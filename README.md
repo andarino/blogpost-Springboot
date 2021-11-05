@@ -1,1 +1,3 @@
-Projeto desenvolvido para estudar sobre Spring boot e mais...
+#CODEBLOG - Blogpost
+## Um blogpost no estilo CRUD usando Spring Boot, Bootstrap, thymeleaf, JPA e integração com Postgres 
+

@@ -1,7 +1,9 @@
 #CODEBLOG - Blogpost
 ## Um blogpost no estilo CRUD usando Spring Boot, Spring Security, Bootstrap, thymeleaf, JPA e integração com Postgres. Todo o projeto é feito na arquitetura MVC.
 
-![posts](https://github.com/andarino/blogpost-Springboot/blob/main/img/home.jpeg)
+![home](https://github.com/andarino/blogpost-Springboot/blob/main/img/home.jpeg)
+![nposts](https://github.com/andarino/blogpost-Springboot/blob/main/img/npost.jpeg)
+![posts](https://github.com/andarino/blogpost-Springboot/blob/main/img/post.jpeg)
 ## Dependências
 * Java:
 ```
@@ -28,4 +30,4 @@ Rode o arquivo compilado `projeto-0.0.1-SNAPSHOT.jar` no terminal:
 ```sh
 java -jar projeto-0.0.1-SNAPSHOT.jar.jar
 ```
->O server estará acessível em `http://localhost:8080`
+>O server estará acessível em `http://localhost:8080/posts`

@@ -32,7 +32,7 @@ OS name: "linux", version: "5.10.42-1-manjaro", arch: "amd64", family: "unix"
 ```sh
 cd blogpost-Springboot/
 ```
-Rode o arquivo compilado `projeto-0.0.1-SNAPSHOT.jar` no terminal:
+Compile e rode o arquivo compilado `projeto-0.0.1-SNAPSHOT.jar` no terminal:
 ```sh
 java -jar projeto-0.0.1-SNAPSHOT.jar.jar
 ```

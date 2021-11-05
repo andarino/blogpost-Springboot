@@ -34,6 +34,8 @@ cd blogpost-Springboot/
 ```
 Compile e rode o arquivo compilado `projeto-0.0.1-SNAPSHOT.jar` no terminal:
 ```sh
+mvn clean install
+cd target/
 java -jar projeto-0.0.1-SNAPSHOT.jar.jar
 ```
 >O server estará acessível em `http://localhost:8080/posts`

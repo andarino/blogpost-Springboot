@@ -1,6 +1,5 @@
 ## CODEBLOG - Blogpost
-### Um site CRUD no estilo blogpost usando Spring Boot, Spring Security, Bootstrap, thymeleaf, JPA e integração com PostgreSQL. O projeto é feito na arquitetura MVC.
-
+### Um site CRUD no estilo blogpost usando Spring Boot, Spring Security, Bootstrap, thymeleaf, JPA e integração com PostgreSQL.
 * Tela Inicial:
 ![home](https://github.com/andarino/blogpost-Springboot/blob/main/img/home.jpeg)
 

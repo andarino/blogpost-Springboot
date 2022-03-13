@@ -3,6 +3,7 @@
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![jpa](https://img.shields.io/badge/Made%20with-JPA-brightgreen)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![thymeleaf](https://img.shields.io/badge/-Thymeleaf-brightgreen)
 
